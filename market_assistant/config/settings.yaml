@@ -1,0 +1,6 @@
+# Default indicator thresholds and tickers
+schedule: '0 9 * * 1-5'
+tickers:
+  - AAPL
+  - MSFT
+  - GOOG
